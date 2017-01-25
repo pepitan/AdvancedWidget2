@@ -1,6 +1,6 @@
 # AdvancedWidget2
 
-![ScreenShot]()
+![ScreenShot](https://github.com/pepitan/AdvancedWidget2/blob/master/Screenshot_2017-01-25-08-01-33.png)
 
 Nama : Pepita Neysa N.
 
